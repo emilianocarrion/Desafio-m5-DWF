@@ -5,7 +5,7 @@ import { perder } from "./pages/resultado/perdiste";
 import { empate } from "./pages/resultado/empate";
 import { welcome } from "./pages/welcome";
 
-const BASE_PATH = "/Desafio-m5-DWF";
+const BASE_PATH = "/Desafio-m5-DWF/";
 
 const routes = [
   {
